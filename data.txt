@@ -1,0 +1,60 @@
+$result 1 MP 62 -3,3 12405025,5599359 72232787,235591230 62,-1 0 0 1 1 nm 2912.7
+<result_info>   1: Multi_Measure          :P
+<result_info>   1: Measurement            :Width
+<result_info>   1: Object                 :Line
+<result_info>   1: Kind                   :Multi Point
+<result_info>   1: Data                   :Mean'
+<result_info>   1: Mean                   :297651.22
+<result_info>   1: Mean'                  :291.27
+<result_info>   1: Maximum                :292.28
+<result_info>   1: Minimum                :288.67
+
+$result 1 MP 62 -3,5 12405025,5599359 72232787,235591230 62,-1 0 0 1 1 nm 2912.7
+<result_info>   1: Multi_Measure          :P
+<result_info>   1: Measurement            :Width
+<result_info>   1: Object                 :Line
+<result_info>   1: Kind                   :Multi Point
+<result_info>   1: Data                   :Mean
+<result_info>   1: Mean                   :29101.22
+<result_info>   1: Mean'                  :291.27
+<result_info>   1: Maximum                :292.28
+<result_info>   1: Minimum                :288.67
+
+
+
+$result 1 MP 62 2,5 12405025,5599359 72232787,235591230 62,-1 0 0 1 1 nm 2912.7
+<result_info>   1: Multi_Measure          :P
+<result_info>   1: Measurement            :Width
+<result_info>   1: Object                 :Line
+<result_info>   1: Kind                   :Multi Point
+<result_info>   1: Data                   :Mean
+<result_info>   1: Mean                   :291.22
+<result_info>   1: Mean'                  :291.27
+<result_info>   1: Maximum                :292.28
+<result_info>   1: Minimum                :288.67
+
+$result 1 MP 65 -2,3 12405025,5599359 72232787,235591230 62,-1 0 0 1 1 nm 2912.7
+<result_info>   1: Multi_Measure          :P
+<result_info>   1: Measurement            :Width
+<result_info>   1: Object                 :Line
+<result_info>   1: Kind                   :Multi Point
+<result_info>   1: Data                   :Mean'
+<result_info>   1: Mean                   :2911.22
+<result_info>   1: Mean'                  :291.27
+<result_info>   1: Maximum                :292.28
+<result_info>   1: Minimum                :288.67
+
+$result 1 MP 65 -2,5 12405025,5599359 72232787,235591230 62,-1 0 0 1 1 nm 2912.7
+<result_info>   1: Multi_Measure          :P
+<result_info>   1: Measurement            :Width
+<result_info>   1: Object                 :Line
+<result_info>   1: Kind                   :Multi Point
+<result_info>   1: Data                   :Mean'
+<result_info>   1: Mean                   :132131.22
+<result_info>   1: Mean'                  :291.27
+<result_info>   1: Maximum                :292.28
+<result_info>   1: Minimum                :288.67
+
+
+
+
